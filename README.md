@@ -1,2 +1,2 @@
-# youngvar.gethub.io
+# youngvar.github.io
 Resume
